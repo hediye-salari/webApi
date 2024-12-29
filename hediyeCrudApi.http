@@ -1,0 +1,6 @@
+@hediyeCrudApi_HostAddress = http://localhost:5159
+
+GET {{hediyeCrudApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
